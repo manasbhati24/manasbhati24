@@ -21,7 +21,7 @@ Graduate of the **University of Wisconsin–Madison** with a triple major in **C
 
 ### 🔭 What I'm Working On
 - Building scalable backend services and high-throughput data pipelines
-- Open-source contributions and tooling
+- Open-source contributions and tooling using agentic-ai
 
 ---
 
