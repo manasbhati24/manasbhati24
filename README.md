@@ -1,4 +1,4 @@
-# Hi, I'm Manas 👋
+# Manas Singh Bhati
 
 Graduate of the **University of Wisconsin–Madison** with a triple major in **Computer Science, Data Science, and Economics**. I build software and analytical systems at the intersection of data, distributed engineering, and quantitative modeling.
 
@@ -26,4 +26,6 @@ Graduate of the **University of Wisconsin–Madison** with a triple major in **C
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/manas-singh-bhati/
+)]([https://linkedin.com](https://www.linkedin.com/in/manas-singh-bhati/
+))
