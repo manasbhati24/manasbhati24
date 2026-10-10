@@ -1,16 +1,12 @@
 # Manas Singh Bhati
 
-Graduate of the **University of Wisconsin–Madison** with a triple major in **Computer Science, Data Science, and Economics**. I build software and analytical systems at the intersection of data, distributed engineering, and quantitative modeling.
+Graduate of the **University of Wisconsin–Madison** with a triple major in **Computer Science, Data Science, and Economics**.
 
 ---
 
-### 🛠 Tech & Tools
-* **Languages:** Python, Java, C/C++, SQL, R, Bash
-* **Data & ML:** pandas, NumPy, scikit-learn, PyTorch
-* **Backend & Infra:** Git, Docker, Linux/Unix environments, REST APIs
+### Tech & Tools
 
-
-* **Languages:** Python, Java, C, SQL, TypeScript, JavaScript, R, MATLAB, HTML5, CSS3
+* **Languages:** Python, Java, C, SQL, JavaScript, TypeScript, R, MATLAB, HTML5, CSS3
 * **AI & Generative AI:** RAG, Tool Calling, LangChain, MCP , PyTorch, TensorFlow, Keras, Scikit-learn
 * **Data Engineering & Analytics:**  Spark, PyArrow, Kafka, Iceberg, Airflow, dbt, Pandas, NumPy, Tableau
 * **Cloud & Data Warehouses:** AWS, Google Cloud Platform (GCP), Snowflake, BigQuery, HDFS
@@ -19,13 +15,11 @@ Graduate of the **University of Wisconsin–Madison** with a triple major in **C
 
 ---
 
-### 🔭 What I'm Working On
+### What I'm Working On
 - Building scalable backend services and high-throughput data pipelines
 - Open-source contributions and tooling using agentic-ai
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/manas-singh-bhati/
-)]([https://linkedin.com](https://www.linkedin.com/in/manas-singh-bhati/
-))
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/manas-singh-bhati/)
